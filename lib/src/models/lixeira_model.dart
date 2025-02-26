@@ -1,9 +1,9 @@
-class LixeiraJurunasModel {
+class LixeirasModel {
   String bairro;
   String loc;
   String? image;
 
-  LixeiraJurunasModel({
+  LixeirasModel({
     required this.bairro,
     required this.loc,
     this.image,
